@@ -1,0 +1,13 @@
+OOP REQUIREMENT:
+
+1. Class (CHECK)
+2. Object (CHECK)
+3. Encapsulation (CHECK)
+4. Polymorphism (CHECK)
+5. Inheritance (CHECK)
+6. Abstraction 
+7. Exception Handling
+8. Standard Template Library
+9. FILE IO
+10. Data input validation
+11. Git and Github
